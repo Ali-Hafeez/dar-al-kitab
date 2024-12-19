@@ -47,6 +47,14 @@ p {
 
 }
 
+.arabic{
+    font-family: 'Amiri', 'Droid Arabic Naskh', serif;
+    direction: rtl;
+    text-align: right;
+    letter-spacing: -1px;
+    font-size: 24px;
+}
+
 .waves {
     position:relative;
     width: 100%;
